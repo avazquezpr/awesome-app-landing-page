@@ -38,7 +38,7 @@ social-links:
   twitter: https://twitter.com/@coderunnerpro
   pinterest:
   instagram:
-  email:
+  email: angel@humbll.com
   youtube: # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -81,7 +81,7 @@ description: # Optional - Enter your site description
 #
 # Google Analytics
 #
-google_analytics: # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-110523924-1 # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
 
 #
 # iTunes Affiliate Program
