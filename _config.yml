@@ -25,8 +25,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Easily document cardiac arrest interventions in real-time! # Optional
-marketing_desc: Code Runner Pro is the best tool to have during a medical code. The app is specifically designed to help healthcare professionals manage cardiopulmonary arrest events by providing timers, lists of drugs & events, a CPR metronome and more.
+marketing_header: The best tool to have during a medical code # Optional
+marketing_desc: Code Runner Pro is specifically designed to help healthcare professionals manage cardiopulmonary arrest events by providing timers, lists of drugs & events, a CPR metronome, Apple Watch support and more.
 #
 # Social Links
 #
