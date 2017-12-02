@@ -75,7 +75,7 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: Code Runner Pro 1# Optional - Enter your site title, Changes to title. Hard coded. 
+title: Code Runner Pro # Optional - Enter your site title, Changes to title. Hard coded. 
 description: The best tool to have during a medical code.# Optional - Enter your site description
 
 #
