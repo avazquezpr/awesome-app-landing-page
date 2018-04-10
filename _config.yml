@@ -26,7 +26,7 @@ app:
 #
 # Marketing
 #
-marketing_header: Trusted by hundreds of healthcare professionals around the world! # Optional
+marketing_header: Trusted by healthcare professionals around the world! # Optional
 marketing_desc: Code Runner Pro is an ACLS tool that helps healthcare providers to better manage cardio-pulmonary events by providing timers, lists of drugs & events, a CPR metronome, Apple Watch support, and more.
 #
 # Social Links
